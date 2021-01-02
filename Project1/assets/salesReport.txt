@@ -1,0 +1,8 @@
+Flight            Quantity  Amount        Travel tax
+
+USA               1         10,000        1,000         
+France            0         0.00          0.00          
+China             0         0.00          0.00          
+Philippines       0         0.00          0.00          
+
+TOTAL             1         10,000        1,000         

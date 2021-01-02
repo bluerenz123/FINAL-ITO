@@ -1,0 +1,3 @@
+Destination   Age    Sales Amount
+
+USA           1      10,000        
